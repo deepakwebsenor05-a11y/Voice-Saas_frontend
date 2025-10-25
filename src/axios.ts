@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'https://voice-frontend.netlify.app/api',
+    baseURL: 'https://voice-saas-1.onrender.com/api',
     withCredentials: true,
 });
 
